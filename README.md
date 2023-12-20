@@ -1,4 +1,4 @@
-Welcome to the new feature.
+# Welcome to the new feature.
 
 Step into the future with Forge, where creativity meets cutting-edge technology! Our team is thrilled to introduce you to our flagship project, Forge AI — a groundbreaking initiative that's reshaping the landscape of artificial intelligence.
 
